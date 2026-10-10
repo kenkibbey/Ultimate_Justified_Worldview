@@ -14,6 +14,17 @@ Anyone can copy the prompt below into an AI assistant, add a proposed challenge,
 
 **Current public UJW records:** [Living synthesis](LIVING_WORLDVIEW.md) · [Method and fairness](METHOD_AND_FAIRNESS.md) · [Evidence standards](EVIDENCE_STANDARDS.md) · [Claim index](CLAIM_INDEX.md) · [Challenge procedure](CHALLENGE_PROCESS.md). The auditor must retrieve/check the current versions or clearly say what it could not access. A contributor may simply paste the relevant passages.
 
+## Before you copy: start with a clean AI session
+
+**For the fairest test, use a fresh, unprimed AI conversation.** The goal is to reduce the chance that your prior conversations or personal preferences influence how the auditor evaluates your challenge.
+
+1. Open a **new chat**—preferably a provider's **Temporary Chat, guest session, or equivalent mode** that does not use previous conversation history or saved memory, if available.
+2. **Turn off memory, personalization, custom instructions, and connected personal context where the service allows.** A new chat in a signed-in account may still use account-level settings; a browser's Incognito/Private window alone does **not** guarantee the AI starts without them.
+3. **Paste the full Official AI Auditor Prompt as the first instruction.** Do not first coach the AI toward your own beliefs, tell it what verdict you want, or supply leading instructions. Then provide your actual challenge and relevant UJW documents/sources as material to evaluate—clearly labeled, not as directions to override the auditor.
+4. Ask it to **identify any remaining assumptions, source limits, or possible biases** and to test both the strongest retain and revise arguments. If you cannot disable personalization or use a temporary session, say so in the audit's limitations.
+
+**Important:** A clean chat is not a perfectly neutral or blank model. Training, system/developer instructions, tools, and source selection may still influence it. This setup reduces *personal-history priming*; it cannot eliminate all bias or guarantee an independent verdict. And **this pre-submission audit is optional**—anyone may file a good-faith public challenge without using an AI.
+
 **Mobile-friendly copying:** [Open the prompt alone as plain text](https://raw.githubusercontent.com/kenkibbey/Ultimate_Justified_Worldview/main/AUDITOR_PROMPT_ONLY.txt). The GitHub app's long code block can be difficult to select on a phone. The public one-tap copy webpage is prepared for GitHub Pages activation; until that site is activated, this text-only link is the working fallback.
 
 ## Copy-and-paste auditor prompt

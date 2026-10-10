@@ -1,5 +1,12 @@
 <h1 align="center">UJW public change history</h1>
 
+## October 10, 2026 — Clean-session instructions (UJW-PUB-005)
+
+- Added prominent instructions **before copying** the [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md): use a fresh or Temporary Chat where available; disable memory/personalization/custom instructions when possible; paste the auditor prompt first; then provide the challenge and sources.
+- Added the same guidance immediately above the copy control in the prepared mobile [copy webpage](docs/index.html). The copy button's website remains unverified as live hosting, pending GitHub Pages setup.
+- Clarified that browser Incognito mode alone may not exclude signed-in account memory and that a truly bias-free AI cannot be guaranteed.
+- Kept the full auditor prompt itself and the [plain-text prompt](AUDITOR_PROMPT_ONLY.txt) unchanged so existing v0.1 copies stay consistent.
+
 ## October 10, 2026 — Mobile copy preparation (UJW-PUB-004)
 
 - Extracted the full official v0.1 auditor instructions without omissions into [a plain-text prompt](AUDITOR_PROMPT_ONLY.txt) as a mobile-friendly alternative to the horizontally scrolling code block.

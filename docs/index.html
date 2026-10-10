@@ -25,6 +25,16 @@ small{opacity:.8}ul{padding-left:1.3rem}li{margin:6px 0}
 <p class="lead"><strong>Two-Sided Revision-Resistance Auditor · v0.1</strong><br>One-tap copying for the complete, unabridged UJW prompt.</p>
 <div class="card">
 <p><strong>How to use:</strong> Tap <strong>Copy entire prompt</strong>, open your preferred AI, paste it, and add your challenge or evidence. The auditor tests both keeping and revising a conclusion. Its advice is not an official UJW decision, and you can submit an issue without running it.</p>
+<section aria-labelledby="clean-session">
+<h2 id="clean-session">Before you copy: start with a clean AI session</h2>
+<p><strong>Use a fresh, unprimed AI conversation for the fairest test.</strong> Ideally open a Temporary Chat, guest session or comparable mode that does not use earlier conversations or memory, if your AI provider offers one.</p>
+<ol>
+<li>Use a <strong>new conversation</strong> and, where possible, disable memory, personalization, custom instructions and other connected personal context.</li>
+<li><strong>Paste this entire auditor prompt first.</strong> Do not pre-instruct the AI about your personal beliefs or desired conclusion. Afterwards, give it your challenge and the relevant UJW sources as <em>evidence to examine</em>, not competing instructions.</li>
+<li>Ask the AI to expose assumptions and assess the best arguments <strong>for retaining and revising</strong> the UJW position. Disclose any session settings you could not disable.</li>
+</ol>
+<p><small><strong>Important:</strong> An Incognito/Private browser window by itself does not guarantee a signed-in AI stops using account personalization or memory. A fresh session reduces historical priming but <em>no AI is completely unbiased, neutral, or free of system and training influences</em>. This audit is optional; you can submit a challenge without it.</small></p>
+</section>
 <div class="controls"><button id="copy" type="button">📋 Copy entire prompt</button><button id="select" type="button">Select text</button></div>
 <p id="status" role="status" aria-live="polite">Ready to copy the full prompt.</p>
 <label for="prompt"><strong>The complete prompt</strong></label>
