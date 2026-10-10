@@ -1,0 +1,31 @@
+name: "Morality and action"
+description: "Explore ethics, obligations, justice, virtue, consequences and grounds of value."
+title: "[Morality and action] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue, one written response. You may consider these OPTIONAL prompts:
+        
+        - What precise claim or part of UJW matters here?
+        - What evidence, experience, source, or argument supports your point?
+        - Which UJW conclusion or assumption might it affect?
+        - What serious alternative deserves consideration?
+        - What revision or further test would help?
+        
+        You can ignore any or all prompts and write naturally. GitHub issues and your account identity are **public**. Do not post private or sensitive information.
+  - type: textarea
+    id: single_response
+    attributes:
+      label: "Your challenge, evidence, proposal or argument"
+      description: "What should UJW consider, and why? Write in your own words."
+      placeholder: "I think UJW should consider ..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_acknowledgement
+    attributes:
+      label: "Public submission"
+      options:
+        - label: "I understand this issue and my GitHub account identity will be public."
+          required: true
