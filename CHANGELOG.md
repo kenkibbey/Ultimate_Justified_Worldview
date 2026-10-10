@@ -1,5 +1,12 @@
 <h1 align="center">UJW public change history</h1>
 
+## October 10, 2026 — Official AI Auditor Prompt (UJW-PUB-003)
+
+- Published the versioned [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md) as the public, copyable two-sided revision-resistance auditor.
+- Linked it from the README, Start Here, Contributing and Challenge Process pages so people can optionally stress-test a challenge before posting.
+- Disclosed that no AI is guaranteed free of bias; outputs are advisory and cannot independently alter the UJW living synthesis.
+- No substantive worldview finding or research evidence was changed. No public issue was filed.
+
 ## October 10, 2026 — README banner and public document layout (UJW-PUB-002)
 
 - Centered the main title of all 12 public Markdown documents; section headings remain left-aligned for readability.

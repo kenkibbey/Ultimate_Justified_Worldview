@@ -6,6 +6,8 @@ Start with one of the [six public questions](QUESTIONS.md). Tell us your claim, 
 
 Our submission form has just **one required writing box**. Guiding prompts are suggestions, not a questionnaire. GitHub will also ask for the issue title and acknowledgment that the submission is public.
 
+**Want to test your challenge first?** Open the [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md), copy it into an AI, and add your challenge. The revision-resistance audit considers the strongest arguments for keeping and revising the current position. This step is optional.
+
 **Before posting:** Please remove personal identifiers, private correspondence, restricted cultural knowledge and other sensitive information. Your GitHub account and issue will be visible to the public.
 
 We may first clarify the claim and ask for sources before deciding whether it merits a full research examination. We cannot promise a review deadline. Ordinary-language contributions are welcome, and disagreement with the current picture is allowed.

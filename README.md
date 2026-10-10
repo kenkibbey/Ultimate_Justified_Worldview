@@ -6,6 +6,7 @@
 </p>
 
 <p align="center"><strong><a href="LIVING_WORLDVIEW.md">Current UJW Synthesis →</a></strong></p>
+<p align="center"><strong><a href="OFFICIAL_AI_AUDITOR_PROMPT.md">Official AI Auditor Prompt →</a></strong></p>
 
 
 **An open, ongoing effort to discover and refine the most justified understanding of reality possible.**
