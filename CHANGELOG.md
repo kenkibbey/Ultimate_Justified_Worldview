@@ -1,5 +1,13 @@
 <h1 align="center">UJW public change history</h1>
 
+## October 10, 2026 — Beginner-friendly public entry (UJW-PUB-006)
+
+- Reorganized the README around three visitor choices and six illustrated question links, while preserving the centered title, existing banner, prominent Current UJW Synthesis link and Official AI Auditor Prompt link.
+- Expanded [Start Here](START_HERE.md) with concrete GitHub submission instructions and clearly labeled hypothetical examples; expanded [Questions](QUESTIONS.md) with introductory explanations and contribution ideas.
+- Added [How findings work](HOW_FINDINGS_WORK.md) and the [plain-language glossary](GLOSSARY.md); linked both from existing help pages.
+- Left all eight issue forms, repository settings, auditor text, banner, research conclusions, source masters, and license status unchanged. A separate website and end-to-end visitor tests are deferred.
+
+
 ## October 10, 2026 — Clean-session instructions (UJW-PUB-005)
 
 - Added prominent instructions **before copying** the [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md): use a fresh or Temporary Chat where available; disable memory/personalization/custom instructions when possible; paste the auditor prompt first; then provide the challenge and sources.

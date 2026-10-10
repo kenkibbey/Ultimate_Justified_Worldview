@@ -2,6 +2,8 @@
 
 You may challenge a finding, a method, an assumption, an omitted worldview or **the entire project**. We welcome beginners, experts and people from different cultural and religious settings; no formal credentials or word count are required.
 
+**First time here?** See [the beginner guide](START_HERE.md#how-to-submit-a-contribution) and [the illustrated step-by-step review process](HOW_FINDINGS_WORK.md).
+
 **Optional pre-submission check:** Use the [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md) to put your argument through a two-sided revision-resistance audit before publishing. It examines the strongest case for keeping a conclusion and the strongest case for changing it. It cannot guarantee neutrality and its output is not an official decision. **No one must pass or even use this test to submit an issue.**
 
 1. Choose the most relevant [question](QUESTIONS.md), or use the [whole-project challenge](https://github.com/kenkibbey/Ultimate_Justified_Worldview/issues/new?template=01-whole-project.yml).
