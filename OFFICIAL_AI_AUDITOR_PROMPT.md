@@ -14,6 +14,8 @@ Anyone can copy the prompt below into an AI assistant, add a proposed challenge,
 
 **Current public UJW records:** [Living synthesis](LIVING_WORLDVIEW.md) · [Method and fairness](METHOD_AND_FAIRNESS.md) · [Evidence standards](EVIDENCE_STANDARDS.md) · [Claim index](CLAIM_INDEX.md) · [Challenge procedure](CHALLENGE_PROCESS.md). The auditor must retrieve/check the current versions or clearly say what it could not access. A contributor may simply paste the relevant passages.
 
+**Mobile-friendly copying:** [Open the prompt alone as plain text](https://raw.githubusercontent.com/kenkibbey/Ultimate_Justified_Worldview/main/AUDITOR_PROMPT_ONLY.txt). The GitHub app's long code block can be difficult to select on a phone. The public one-tap copy webpage is prepared for GitHub Pages activation; until that site is activated, this text-only link is the working fallback.
+
 ## Copy-and-paste auditor prompt
 
 ```text

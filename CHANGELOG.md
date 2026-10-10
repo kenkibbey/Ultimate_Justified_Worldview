@@ -1,5 +1,11 @@
 <h1 align="center">UJW public change history</h1>
 
+## October 10, 2026 — Mobile copy preparation (UJW-PUB-004)
+
+- Extracted the full official v0.1 auditor instructions without omissions into [a plain-text prompt](AUDITOR_PROMPT_ONLY.txt) as a mobile-friendly alternative to the horizontally scrolling code block.
+- Prepared a self-contained, mobile-friendly one-tap copy webpage under `docs/index.html` with a visible **Copy entire prompt** button and select-all fallback. The webpage is **not yet publicly hosted**; GitHub Pages must be activated and verified separately.
+- Linked the plain-text prompt from the README and auditor explanation page. No existing auditor rule or worldview research finding changed.
+
 ## October 10, 2026 — Official AI Auditor Prompt (UJW-PUB-003)
 
 - Published the versioned [Official AI Auditor Prompt](OFFICIAL_AI_AUDITOR_PROMPT.md) as the public, copyable two-sided revision-resistance auditor.
