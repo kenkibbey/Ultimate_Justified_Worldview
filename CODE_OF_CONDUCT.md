@@ -1,4 +1,4 @@
-# Community conduct
+<h1 align="center">Community conduct</h1>
 
 Challenge ideas vigorously; treat people respectfully. Represent opposing claims in their strongest fair form. No harassment, threats, discriminatory abuse, doxxing, coercive disclosure, impersonation or posting of restricted/private information.
 

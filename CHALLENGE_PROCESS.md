@@ -1,4 +1,4 @@
-# How to challenge UJW
+<h1 align="center">How to challenge UJW</h1>
 
 You may challenge a finding, a method, an assumption, an omitted worldview or **the entire project**. We welcome beginners, experts and people from different cultural and religious settings; no formal credentials or word count are required.
 

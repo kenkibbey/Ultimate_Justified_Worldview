@@ -1,4 +1,4 @@
-# Six open research questions
+<h1 align="center">Six open research questions</h1>
 
 ## 1. What can we know, and how can we know it?
 

@@ -1,4 +1,4 @@
-# Method and fairness — provisional, open to challenge
+<h1 align="center">Method and fairness — provisional, open to challenge</h1>
 
 We examine **exact claims**, their strongest charitable interpretation, and relevant alternatives—not simplified labels for whole religions or philosophies. Worldview families may contain very different versions.
 

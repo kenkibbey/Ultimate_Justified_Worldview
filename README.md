@@ -1,27 +1,12 @@
-# The Ultimate Justified Worldview Project (UJW)
+<h1 align="center">The Ultimate Justified Worldview Project (UJW)</h1>
 
-## 🌍 Current Ultimate Justified Worldview — Living Synthesis
 
-**Current version: 0.1 · Last updated: October 10, 2026 · Status: Founding research**
+<p align="center">
+  <img src="assets/ultimate_justified_worldview.png" alt="An unfinished puzzle of Earth joining philosophy, science, consciousness, morality, history, and a path toward understanding" />
+</p>
 
-> **Our present justified picture:** No substantive claim about ultimate reality has yet completed the examination required for admission to UJW’s living synthesis. **No comprehensive worldview has been established or selected.** This is a report about our progress, not a claim that knowledge is impossible or that all views are equally likely.
+<p align="center"><strong><a href="LIVING_WORLDVIEW.md">Current UJW Synthesis →</a></strong></p>
 
-| The big question | What UJW can currently justify |
-| --- | --- |
-| Knowledge — What can we know? | Under examination; no UJW synthesis finding admitted yet. |
-| Reality — What exists, and why? | Not yet determined by UJW examination. |
-| Human origins and consciousness | Not yet determined by UJW examination. |
-| Meaning and purpose | Not yet determined by UJW examination. |
-| Morality — How should we live? | Not yet determined by UJW examination. |
-| Death and destiny | Not yet determined by UJW examination. |
-
-**What we are testing now:** How, if at all, human beings can acquire justified knowledge of reality. This includes skepticism, the reliability of reasoning and observation, and competing philosophical or religious accounts. No starting position gets a free pass.
-
-**How this picture evolves:** New [issues and challenges](https://github.com/kenkibbey/Ultimate_Justified_Worldview/issues) supply possible pieces of the puzzle. Each must undergo source checking, comparison with serious alternatives, and adversarial review. **Only sufficiently justified findings enter this summary;** unsupported, disputed, corrected, and withdrawn claims stay visible in the research trail. This page is updated through reviewed releases—not automatically whenever someone posts an issue.
-
-**[Explore the full current synthesis →](LIVING_WORLDVIEW.md)** · **[Inspect claim records and their status →](CLAIM_INDEX.md)** · **[See how the picture changed →](CHANGELOG.md)** · **[Challenge the entire picture →](https://github.com/kenkibbey/Ultimate_Justified_Worldview/issues/new?template=01-whole-project.yml)**
-
----
 
 **An open, ongoing effort to discover and refine the most justified understanding of reality possible.**
 
@@ -44,9 +29,6 @@ Imagine assembling a puzzle without knowing every piece or even the final pictur
 
 **[Suggest other evidence, an alternative worldview, or a missing question](https://github.com/kenkibbey/Ultimate_Justified_Worldview/issues/new?template=08-other-evidence.yml)**.
 
-## Where the project stands
-
-**Founding stage (October 10, 2026):** no final worldview and no independently tested UJW claim has yet been admitted as a justified synthesis finding. This is not a verdict that knowledge is impossible; research is beginning. See [the current picture](LIVING_WORLDVIEW.md), [claim index](CLAIM_INDEX.md), and [change history](CHANGELOG.md).
 
 ## How we reach findings
 

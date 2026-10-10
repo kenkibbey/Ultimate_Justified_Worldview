@@ -1,4 +1,4 @@
-# Security, privacy and confidential material
+<h1 align="center">Security, privacy and confidential material</h1>
 
 **Do not post passwords, security tokens, private addresses, medical information, protected community knowledge, sensitive witness narratives, or other confidential material in a GitHub issue.** GitHub issue text and accounts are visible to the public.
 

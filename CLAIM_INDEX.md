@@ -1,4 +1,4 @@
-# Claim and evidence index
+<h1 align="center">Claim and evidence index</h1>
 
 **Status:** Founding stage. No approved public claim dossier or synthesis result yet.
 

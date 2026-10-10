@@ -1,4 +1,4 @@
-# Start here
+<h1 align="center">Start here</h1>
 
 **What is UJW?** A worldwide invitation to test ideas about reality rather than defend a predetermined answer.
 

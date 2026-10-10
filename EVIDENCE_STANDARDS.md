@@ -1,4 +1,4 @@
-# What counts as evidence?
+<h1 align="center">What counts as evidence?</h1>
 
 Anything appropriately authenticated that bears on a **precise claim** may be examined, but admission to review is not automatic belief. Arguments also matter, yet even perfectly valid reasoning cannot turn unjustified premises into established facts.
 

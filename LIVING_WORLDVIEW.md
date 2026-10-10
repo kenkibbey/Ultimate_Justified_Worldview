@@ -1,4 +1,4 @@
-# Current Ultimate Justified Worldview — Living Synthesis
+<h1 align="center">Current Ultimate Justified Worldview — Living Synthesis</h1>
 
 **Version 0.1 · Updated October 10, 2026 · Founding research stage**
 

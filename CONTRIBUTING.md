@@ -1,4 +1,4 @@
-# Contributing
+<h1 align="center">Contributing</h1>
 
 You can help by offering one clear claim, question, source, counterargument, personal observation, correction, or alternative worldview, and explaining why it might matter. You need not know academic jargon. If possible, include original source links, editions and locations so others can inspect your reasons.
 
